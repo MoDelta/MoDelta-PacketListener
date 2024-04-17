@@ -23,3 +23,5 @@ All of these will be written in a different terminal.
 sslstrip comes installed on Linux. 
 
 We just need to download dns2proxy extra.
+
+*This software was written by learning from the lessons of instructor Atıl Samancıoğlu.
